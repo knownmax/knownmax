@@ -57,13 +57,22 @@
 ---
 
 ### 📊 **GitHub Stats**
-<p align="left">
+<!-- <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=knownmax&show_icons=true&locale=en&layout=donut" alt="knownmax" />
 </p>
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=knownmax&show_icons=true&locale=en&theme=dracula&bg_color=00000000" alt="knownmax" />
-</p>
+</p> -->
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knownmax&theme=radical)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=knownmax&theme=radical)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=knownmax&theme=radical)
+
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knownmax&theme=radical)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=knownmax&theme=radical)
+
 
 ---
 
