@@ -17,13 +17,6 @@
 - **Computer Vision**: Image classification, object detection, segmentation, etc.
 - **NLP**: Text classification, sentiment analysis, language modeling, etc.
 - **Machine Learning**: Model development, optimization, and deployment.
-
----
-
-### 🌱 **Currently Learning**
-- Advanced techniques in **Transformer models** and **Generative AI**.
-- Exploring **Reinforcement Learning** and its applications.
-
 ---
 
 ### 🛠️ **Languages and Tools**
