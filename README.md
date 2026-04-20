@@ -14,8 +14,8 @@
 ---
 
 ### 💬 **Ask Me About**
-- **Computer Vision**: Image classification, object detection, segmentation, etc.
-- **NLP**: Text classification, sentiment analysis, language modeling, etc.
+- **Computer Vision**: Image classification, object/anomaly detection, segmentation, etc.
+- **NLP**: Text classification, sentiment analysis, LLM, etc.
 - **Machine Learning**: Model development, optimization, and deployment.
 ---
 
