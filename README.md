@@ -7,16 +7,16 @@
 
 
 ### 🔭 **About Me**
-- I’m deeply passionate about **Computer Vision** and **Natural Language Processing (NLP)**.
-- I enjoy solving complex problems using machine learning and deep learning techniques.
-- Always eager to learn and explore new technologies in the AI space.
+- I work on Computer Vision and Natural Language Processing (NLP) using deep learning.
+- I have experience building and evaluating models such as diffusion models, image translation networks, and NLP systems.
+- Interested in improving model performance, analyzing failure cases, and applying AI to real-world problems.
 
 ---
 
 ### 💬 **Ask Me About**
-- **Computer Vision**: Image classification, object/anomaly detection, segmentation, etc.
-- **NLP**: Text classification, sentiment analysis, LLM, etc.
-- **Machine Learning**: Model development, optimization, and deployment.
+- Computer Vision: Image classification, object detection, segmentation, generative models
+- NLP: Text classification, sentiment analysis, LLMs, transformers
+- Machine Learning: Model training, evaluation, debugging, and deployment (PyTorch, Hugging Face)
 ---
 
 ### 🛠️ **Languages and Tools**
