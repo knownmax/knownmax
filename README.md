@@ -28,33 +28,29 @@ I'm an AI engineer specializing in **Computer Vision** and **Natural Language Pr
 
 ---
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
+<table align="center">
+  <tr>
+    <td align="center" width="80"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42"/><br><sub>Python</sub></a></td>
+    <td align="center" width="80"><a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" height="42"/><br><sub>PyTorch</sub></a></td>
+    <td align="center" width="80"><a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="42" height="42"/><br><sub>HuggingFace</sub></a></td>
+    <td align="center" width="80"><a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="42" height="42"/><br><sub>OpenCV</sub></a></td>
+    <td align="center" width="80"><a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42"/><br><sub>Scikit-learn</sub></a></td>
+    <td align="center" width="80"><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="42" height="42"/><br><sub>Pandas</sub></a></td>
+    <td align="center" width="80"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42"/><br><sub>MySQL</sub></a></td>
+    <td align="center" width="80"><a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="42" height="42"/><br><sub>Django</sub></a></td>
+    <td align="center" width="80"><a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="42" height="42"/><br><sub>Heroku</sub></a></td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>&nbsp;&nbsp;
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="42" height="42"/></a>&nbsp;&nbsp;
-  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="42" height="42"/></a>&nbsp;&nbsp;
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="42" height="42"/></a>&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="42" height="42"/></a>&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/></a>&nbsp;&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="42" height="42"/></a>&nbsp;&nbsp;
-  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="42" height="42"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
+📊 GitHub Stats
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knownmax&theme=radical" alt="Profile Details" />
 </p>
-
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=knownmax&theme=radical" alt="Stats" width="400"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=knownmax&theme=radical" alt="Commits" width="400"/>
 </p>
-
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knownmax&theme=radical" alt="Top Languages" width="400"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=knownmax&theme=radical" alt="Most Commit Language" width="400"/>
