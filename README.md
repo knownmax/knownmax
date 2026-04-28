@@ -6,7 +6,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=knownmax&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/knownmax)
 
-*Building intelligent systems that see, read, and understand the world.*
 
 </div>
 
