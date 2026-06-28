@@ -58,8 +58,6 @@ I'm an AI engineer specializing in **Computer Vision** and **Natural Language Pr
 ---
 
 ### 🎯 Goals
-
-- **Open Source** — Contribute meaningfully to AI/ML projects and tools.
 - **Real-World Impact** — Build AI systems that solve tangible problems, not just benchmarks.
 - **Collaboration** — Connect with engineers and researchers pushing the field forward.
 
